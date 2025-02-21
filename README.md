@@ -20,6 +20,8 @@ This project is a frontend utility that calls the **Useless Facts API** (`https:
 - `cd frontend-task`
 - `npm install`
 
+## **Node version used**
+- v21.1.0
 
 ## Available Scripts
 
@@ -46,5 +48,7 @@ If you encounter an error related to Sass, you can manually install it by runnin
 
 ```bash
 npm install sass
+
+
 
 
